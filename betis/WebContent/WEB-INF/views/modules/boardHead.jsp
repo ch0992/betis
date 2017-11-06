@@ -35,12 +35,12 @@
 	<!-- Superfish -->
 	<link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300'>
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="resources/css/animate.css">
+	<link rel="stylesheet" href="resources/basic/css/animate.css">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="resources/css/icomoon.css">
+	<link rel="stylesheet" href="resources/basic/css/icomoon.css">
 	<!-- Superfish -->
-	<link rel="stylesheet" href="resources/css/superfish.css">
-	<link rel="stylesheet" href="resources/css/style.css?ver=1234">
+	<link rel="stylesheet" href="resources/basic/css/superfish.css">
+	<link rel="stylesheet" href="resources/basic/css/style.css?ver=1234">
 	<link rel="stylesheet" href="resources/bower_components/bootstrap/dist/css/bootstrap.min.css">
 	<link rel="stylesheet" href="resources/bower_components/bootstrap-select/bootstrap-select.min.css">
 	<link rel="stylesheet" href="resources/bower_components/bootstrapValidator/dist/css/bootstrapValidator.min.css">

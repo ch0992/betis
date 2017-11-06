@@ -32,37 +32,37 @@
 
 	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,300' rel='stylesheet' type='text/css'>
 	
-	<link rel="stylesheet" href="resources/css/font-awesome.css" />
+	<link rel="stylesheet" href="resources/basic/css/font-awesome.css" />
 	
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="resources/css/animate.css">
+	<link rel="stylesheet" href="resources/basic/css/animate.css">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="resources/css/icomoon.css">
+	<link rel="stylesheet" href="resources/basic/css/icomoon.css">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="resources/css/bootstrap.css">
+	<link rel="stylesheet" href="resources/basic/css/bootstrap.css">
 	<!-- Superfish -->
-	<link rel="stylesheet" href="resources/css/superfish.css">
+	<link rel="stylesheet" href="resources/basic/css/superfish.css">
 
-	<link rel="stylesheet" href="resources/css/style.css?ver=1234">
+	<link rel="stylesheet" href="resources/basic/css/style.css?ver=1234">
 
 
-	<script src="resources/js/jquery.min.js"></script>
+	<script src="resources/basic/js/jquery.min.js"></script>
 	<!-- jQuery Easing -->
-	<script src="resources/js/jquery.easing.1.3.js"></script>
+	<script src="resources/basic/js/jquery.easing.1.3.js"></script>
 	<!-- Bootstrap -->
-	<script src="resources/js/bootstrap.min.js"></script>
+	<script src="resources/basic/js/bootstrap.min.js"></script>
 	<!-- Waypoints -->
-	<script src="resources/js/jquery.waypoints.min.js"></script>
+	<script src="resources/basic/js/jquery.waypoints.min.js"></script>
 	<!-- Superfish -->
-	<script src="resources/js/hoverIntent.js"></script>
-	<script src="resources/js/superfish.js"></script>
+	<script src="resources/basic/js/hoverIntent.js"></script>
+	<script src="resources/basic/js/superfish.js"></script>
 
 	<!-- Main JS (Do not remove) -->
-	<script src="resources/js/main.js"></script>
+	<script src="resources/basic/js/main.js"></script>
 
 
 	<!-- Modernizr JS -->
-	<script src="resources/js/modernizr-2.6.2.min.js"></script>
+	<script src="resources/basic/js/modernizr-2.6.2.min.js"></script>
 	<!-- FOR IE9 below -->
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>

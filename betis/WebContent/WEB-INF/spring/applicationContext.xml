@@ -41,7 +41,7 @@
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />		 
 		<property name="url" value="jdbc:mysql://localhost:3306/yboard_db?characterEncoding=UTF-8" />	
 		<property name="username" value="root" />
-		<property name="password" value="!!0909aa" />
+		<property name="password" value="090909aA" />
 		<property name="validationQuery" value="select 1"/> 
 		<property name="validationQueryTimeout" value="3600"/>
 		<property name="removeAbandoned" value="true"/><!-- 사용하지 않은 connection이 close되지 않고 있다면 닫아주자. -->

@@ -141,13 +141,17 @@
 							<h2 class="text-center" id="betisInfo_name"></h2>
 							<center><img src="resources/images/betis-logo.png"  style="width:150px;height:100px;" alt="About Us"></center></br></br>
 							<p id="betisInfo_text"></p>
+							<center><span id="betisInfo_phone1"></span></center>
+							<center><span id="betisInfo_phone2"></span></center>
+							<center><span id="betisInfo_phone3"></span></center>
+							</br></br></br>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-6">
 						<div class="fh5co-testimonial text-center animate-box">
 							<h2 id="betisGreet_name"></h2>
 							<figure>
-								<img src="resources/images/ceo.jpeg" style="width:150px;height:150px;" alt="user">
+								<img src="resources/images/ceo.jpg" style="width:150px;height:150px;" alt="user">
 							</figure>
 							<!-- <blockquote> -->
 								<p id="betisGreet_text"></p>

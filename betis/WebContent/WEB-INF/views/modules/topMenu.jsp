@@ -104,7 +104,15 @@
 			 document.getElementById("origin_name").innerHTML = "출처 제공";
 			 document.getElementById("origin_text").innerHTML = "보고서에 제시된 각종 데이터에 대한 출처를 제공함으로써 고객이 필요 시 해당 데이터를 활용할 수 있도록 하고 있습니다.";
 			 document.getElementById("betisInfo_name").innerHTML = "Betis 소개";
-			 document.getElementById("betisInfo_text").innerHTML = "Betis(Bio-Energy Tech. Intelligence Service)는 2016년에 창설된 신규기업으로 바이오에너지 기술정보 분석에 전문화된 기업입니다. 고객과의 긴밀한 소통 및 협업을 통해 고객의 수요를 파악하고, 고객이 필요로 하는 정보를 조사/분석/제공하는 정보서비스 뿐만 아니라 고객사의 사업전략 수립 시 필요로 하는 기술에 대한 컨설팅 서비스를 제공하는 기업입니다. 이를 통해 궁극적으로는 바이오에너지기술의 경쟁력을 제고하고, 산업적 측면에서의 가치창출을 통해 전세계의 바이오에너지 사용비율을 높임으로써 청정기술 발전 및 자연환경 보호에 기여하고자 합니다.</br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-한국 본사(010-7187-7709)</br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-북미 사무실(1-204-698-8905)  </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-대표메일(mjsili.lee@gmail.com)";
+			 //document.getElementById("betisInfo_text").innerHTML = "Betis(Bio-Energy Tech. Intelligence Service)는 2016년에 창설된 신규기업으로 바이오에너지 기술정보 분석에 전문화된 기업입니다. 고객과의 긴밀한 소통 및 협업을 통해 고객의 수요를 파악하고, 고객이 필요로 하는 정보를 조사/분석/제공하는 정보서비스 뿐만 아니라 고객사의 사업전략 수립 시 필요로 하는 기술에 대한 컨설팅 서비스를 제공하는 기업입니다. 이를 통해 궁극적으로는 바이오에너지기술의 경쟁력을 제고하고, 산업적 측면에서의 가치창출을 통해 전세계의 바이오에너지 사용비율을 높임으로써 청정기술 발전 및 자연환경 보호에 기여하고자 합니다.</br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-한국 본사(010-7187-7709)</br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-북미 사무실(1-204-698-8905)  </br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-대표메일(mjsili.lee@gmail.com)";			 
+			 //document.getElementById("betisInfo_phone1").innerHTML = "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-&nbsp한국 본사(010-7187-7709)";
+			 //document.getElementById("betisInfo_phone2").innerHTML = "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-&nbsp북미 사무실(1-204-698-8905)";
+			 //document.getElementById("betisInfo_phone3").innerHTML = "&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-&nbsp&nbsp대표메일(mjsili.lee@gmail.com)";
+			 document.getElementById("betisInfo_text").innerHTML = "Betis(Bio-Energy Tech. Intelligence Service)는 2016년에 창설된 신규기업으로 바이오에너지 기술정보 분석에 전문화된 기업입니다. 고객과의 긴밀한 소통 및 협업을 통해 고객의 수요를 파악하고, 고객이 필요로 하는 정보를 조사/분석/제공하는 정보서비스 뿐만 아니라 고객사의 사업전략 수립 시 필요로 하는 기술에 대한 컨설팅 서비스를 제공하는 기업입니다. 이를 통해 궁극적으로는 바이오에너지기술의 경쟁력을 제고하고, 산업적 측면에서의 가치창출을 통해 전세계의 바이오에너지 사용비율을 높임으로써 청정기술 발전 및 자연환경 보호에 기여하고자 합니다.";
+			 document.getElementById("betisInfo_phone1").innerHTML = "-&nbsp한국 본사(010-7187-7709)</br>";
+			 document.getElementById("betisInfo_phone2").innerHTML = "-&nbsp북미 사무실(1-204-698-8905)</br>";
+			 document.getElementById("betisInfo_phone3").innerHTML = "-&nbsp&nbsp대표메일(mjsili.lee@gmail.com)";
+			 
 			 document.getElementById("betisGreet_name").innerHTML = "대표이사 인사말";
 			 document.getElementById("betisGreet_text").innerHTML = "저희 Betis 사이트를 방문해주신 고객 여러분 환영합니다. 바이오에너지 기술은 지속적으로 연구/개발/활용되어야 할 환경친화적인 기술로서 전세계적으로 그 수요가 증가하고 있으며 향후 관련된 산업의 시장규모 또한 더욱 커질 것으로 전망되고 있습니다. 저희 Betis는 빠르게 변화하는 기술환경 그리고 넘쳐나는 정보 속에서 고객이 원하는 유용한 정보만을 효과적으로 전달할 수 있는 최고의 정보분석 전문기업이 될 수 있도록 최선을 다하고 있습니다. 새롭게 시작하는 신생기업인 만큼 패기와 열정으로 내딛는 Betis의 힘찬 발걸음과 도전에 많은 성원과 격려부탁드립니다. 감사합니다.";
 			 document.getElementById("betisGreet_ceo").innerHTML = "Betis 이명주 대표이사";
